@@ -19,6 +19,13 @@ This circuit is made using ARM7  NPX model LPC2124 micro processor to check and 
   Here is the working simulated image of the project when the user pressed the button after a certain time delay
 <img src="reaction_timer1.png" alt='' />
 
+## Uses of the project 
+Reaction timer circuits are used in a range of applications, including:
+
+- **Entertainment and games**: Reaction time games challenge players to respond quickly to stimuli, adding an element of fun and competition.
+- **Psychological experiments**: Researchers use reaction timer circuits to study human reflexes, cognitive processing, and response times in various scenarios.
+- **Sports training**: Athletes and coaches might use reaction timer circuits to help improve response times and coordination.
+- **Educational tools**: Reaction timer circuits can be used as teaching aids to help students understand concepts related to timing, signal processing, and electronic circuits.
 Tewodros Seble
 <br/>
 All Rights Reserved
