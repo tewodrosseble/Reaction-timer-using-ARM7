@@ -17,7 +17,7 @@ This circuit is made using ARM7  NPX model LPC2124 micro processor to check and 
 
   <br/>
   Here is the working simulated image of the project when the user pressed the button after a certain time delay
-<img src="reaction_timer.png" alt='' />
+<img src="reaction_timer1.png" alt='' />
 
 Tewodros Seble
 <br/>
